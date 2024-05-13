@@ -1,0 +1,9 @@
+[
+	"UserRegister",
+	"FcmTokenUpdate",
+	"UserLogin",
+	"AddRegion",
+	"GetRegion",
+	"CheckUser",
+	"SendSMS"
+]
